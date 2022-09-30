@@ -1,0 +1,10 @@
+sensor of humidity 
+design a sensor
+complex solution
+less items 
+
+sensor de temperatura
+bluetooth - esp
+luminosidade - ldr
+motor de valvula 
+lcd mostrando as configuraçoes
