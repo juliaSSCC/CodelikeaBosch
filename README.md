@@ -17,7 +17,7 @@
 ### Smart lighting
 
 * Turn lights off in empty rooms
-* IR to measure light level
+* LDR to measure light level
 
 ### Supervisory system
 * shows current temperature
