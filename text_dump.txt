@@ -1,0 +1,19 @@
+sensor of humidity 
+design a sensor
+complex solution
+less items 
+
+sensor de temperatura
+bluetooth - esp
+luminosidade - ldr
+motor de valvula 
+lcd mostrando as configuraçoes
+
+
+create cooridnate system
+set sensors on coordinates
+set rooms boundry
+
+modulo com ble e temp
+
+valvula automatica
