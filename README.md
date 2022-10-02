@@ -8,6 +8,7 @@
     * Configurable strength for each room
 * RFID to track room change
     * Reader on each door
+* Markov chain model for previon of position
 
 ### Smart temperature management
 
@@ -25,4 +26,5 @@
 * shows ocupation
 * light level
 * can access each room 
-
+* MQTT server
+* To be integrated to HA
