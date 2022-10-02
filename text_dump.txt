@@ -17,3 +17,29 @@ set rooms boundry
 modulo com ble e temp
 
 valvula automatica
+
+
+Markov chain research:
+Markov chains, named after Andrey Markov, are mathematical systems that hop from one "state" (a situation or set of values) to another. For example, if you made a Markov chain model of a baby's behavior, you might include "playing," "eating", "sleeping," and "crying" as states, which together with other behaviors could form a 'state space': a list of all possible states. In addition, on top of the state space, a Markov chain tells you the probabilitiy of hopping, or "transitioning," from one state to any other state---e.g., the chance that a baby currently playing will fall asleep in the next five minutes without crying first.
+Explanation: https://setosa.io/ev/markov-chains/
+Experiment: https://ieeexplore.ieee.org/document/7831684
+Experiment: https://www.jstor.org/stable/26169319
+Experiment: PDF in my computer
+
+
+Gas consumption research:
+https://engineer.decorexpro.com/en/otoplenie/project/rashod-gaza-na-otoplenie-doma-100-m2.html
+Worcester Greenstar CDi 25 Cdi	Condensing	Gas	90.0%  --> https://www.homeheatingguide.co.uk/efficiency-tables?model=010263
+Worcester Greenstar CDi 25 Cdi
+
+
+
+
+Communication protocols ioT
+advantages, desavantages and use.
+How much data will you need to transfer? low
+How much power is required? low - battery
+How far is the data source from the internet? sensor sending message to the servidor 
+How high is the cost for service? low
+Where are the devices going to be used? 
+Will they be used inside a building or outside? Inside
