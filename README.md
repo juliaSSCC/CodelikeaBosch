@@ -4,7 +4,7 @@
 ### ESP32 based
 
 * ESP32-WROOM-32D Microcontroller 
-* Deep sleep mode
+* Deep sleep mode (10uA)
 
 ### Smart position tracking
 
@@ -25,7 +25,7 @@
 ### Zigbee Transceiver
 
 * Low power
-* Sleep mode
+* Deep Sleep mode (0.02uA)
 
 ### Supervisory system
 
